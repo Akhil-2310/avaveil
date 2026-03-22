@@ -6,6 +6,10 @@ AvaVeil lets anyone create reward campaigns with on-chain eligibility conditions
 
 ---
 
+## [Video Demo](https://www.loom.com/share/6b1b6a73e8fd4f8aa2e3623747f4699a)
+
+## [Live Demo](https://avaveil-fw76.vercel.app/)
+
 ## How It Works
 
 ### The Problem
