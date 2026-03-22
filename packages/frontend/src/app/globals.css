@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+:root {
+  --red-600: #DC2626;
+  --red-500: #EF4444;
+  --red-400: #F87171;
+  --red-700: #B91C1C;
+  --red-800: #991B1B;
+  --red-900: #7F1D1D;
+}
+
+body {
+  font-family: "Inter", system-ui, sans-serif;
+  background-color: #0a0a0a;
+  color: #ffffff;
+}
+
+::selection {
+  background-color: rgba(220, 38, 38, 0.3);
+}
