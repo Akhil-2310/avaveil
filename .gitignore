@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Environment files — never commit real keys
+.env
+.env.*
+!.env.example
+
+# Test/debug scripts at root
+proof.json
+public.json
+public_reordered.json
+check_lengths.js
+check_local_proof.js
+
+# OS
+.DS_Store
+
+# Build artifacts
+dist/
+build/
+.next/
+out/
+
+# TypeScript
+*.tsbuildinfo
