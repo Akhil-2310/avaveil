@@ -1,0 +1,16 @@
+{
+  "network": "fuji",
+  "deployer": "0x8b916003D0C8F1f468a720BA4Ab5EA9678bc6e61",
+  "registrationVerifier": "0x061f9C0bF9CbDfB67D8B7eBC6E275ddac7a3E61B",
+  "mintVerifier": "0x84f0184f0b53224B8CE9be52f25C29E980Df5CdA",
+  "withdrawVerifier": "0xFD09f4DA66f9e72D19715E24B0159eB4E15f5AAB",
+  "transferVerifier": "0x49e384a45980cC9d4150AD1A1caee4f5ff1DA8d7",
+  "burnVerifier": "0xC9934CF87dF5c9ac4cD3501A416300C0cAb0aCE6",
+  "babyJubJub": "0xdB1e9B881C4A56CE1970aEfa32cCc71e0eAf7fFa",
+  "registrar": "0xf40383BFeDdE46eCCa269C0811b8625BE7Dc2d7c",
+  "encryptedERC": "0x77f6A98e8eE504CdD7817F5f8C5C57E1eb7f3827",
+  "rewardToken": "0x7D5d00d235197155971E3Ce8E42a7b938Eea3EF0",
+  "rewardsCampaign": "0x71689A4eEe4d961fa388df88a4c6F44c1774691c",
+  "trustedBackendSigner": "0x8b916003D0C8F1f468a720BA4Ab5EA9678bc6e61",
+  "deployedAt": "2026-03-22T11:21:20.994Z"
+}
